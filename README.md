@@ -1,3 +1,9 @@
 # cafe-management-system
-
-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
+### Access Token
+## Project Setup
+### backend Setup
+* mvn clear install
+* mvn spring-boot:run
+### Frontend setup
+* npm i
+* ng serve -o
